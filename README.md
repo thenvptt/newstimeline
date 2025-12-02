@@ -1,0 +1,1 @@
+Deploy to Streamlit Cloud. Rename .env.example to .env and insert Supabase keys.
